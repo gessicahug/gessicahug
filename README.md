@@ -1,20 +1,24 @@
-Hi 👋 My name is Gessica
-========================
+<h1 align="center">Hi 👋 My name is Gessica</h1>
 
-Full-Stack Developer
---------------------
 
-Proficient Ruby on Rails Full Stack Web Developer looking forward to joining an inventive, problem-solving team whilst tackling challenging projects in order to keep striving for exciting learning opportunities. Swift learner and specially able to implement new technologies rapidly, keeping in mind scalability and testing besides a clean and concise code for others' appreciation. Hit me up if you feel like building something cool and original 😎
+<h3 align="center">Full-Stack Developer</h3>
 
-* 🌍  I'm based in São Paulo, Brazil.
-* ✉️  You can contact me at [gessicahugendobler@gmail.com](mailto:gessicahugendobler@gmail.com)
-* 🧠  I'm learning React.js and Node.js
-* 🤝  I'm open to collaborating on Any new, challenging and interesting project! Hit me up!
-* ⚡  I'm secretly a popstar, but don't tell anyone!
 
-### Skills
+<p align="center">Proficient Ruby on Rails Full Stack Web Developer looking forward to joining an inventive, problem-solving team whilst tackling challenging projects in order to keep striving for exciting learning opportunities. Swift learner and specially able to implement new technologies rapidly, keeping in mind scalability and testing besides a clean and concise code for others' appreciation. Hit me up if you feel like building something cool and original 😎</p>
 
-<p align="left">
+🌍  I'm based in São Paulo, Brazil.</p>
+
+✉️  You can contact me at [gessicahugendobler@gmail.com](mailto:gessicahugendobler@gmail.com)</p>
+
+🧠  I'm learning React.js and Node.js</p>
+
+🤝  I'm open to collaborating on any new, challenging and interesting project! Hit me up!</p>
+
+⚡  I'm secretly a popstar, but don't tell anyone!</p>
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -36,23 +40,14 @@ Proficient Ruby on Rails Full Stack Web Developer looking forward to joining an 
 </p>
 
 
-### Socials
+<h3 align="center">Socials</h3>
 
-<p align="left"> <a href="https://www.github.com/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_djez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_djez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<h3 align="center"> GitHub Status </h3>
+
+<h3 align="center"> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gessicahug&theme=dark)](https://git.io/streak-stats)
 
-<!--
-**gessicahug/gessicahug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
