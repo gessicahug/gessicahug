@@ -1,22 +1,13 @@
-<h1 align="center">Hi 👋 My name is Gessica</h1>
+<h1 align="left">Hi 👋 My name is Gessica</h1>
 
 
-<h3 align="center">Full-Stack Developer</h3>
-
-
-<p align="center">Proficient Ruby on Rails Full Stack Web Developer looking forward to joining an inventive, problem-solving team whilst tackling challenging projects in order to keep striving for exciting learning opportunities. Swift learner and specially able to implement new technologies rapidly, keeping in mind scalability and testing besides a clean and concise code for others' appreciation. Hit me up if you feel like building something cool and original 😎</p>
+<h4 align="left">Full-Stack Developer</h4>
 
 🌍  I'm based in São Paulo, Brazil.</p>
 
 ✉️  You can contact me at [gessicahugendobler@gmail.com](mailto:gessicahugendobler@gmail.com)</p>
 
-🧠  I'm learning React.js and Node.js</p>
-
-🤝  I'm open to collaborating on any new, challenging and interesting project! Hit me up!</p>
-
-⚡  I'm secretly a popstar, but don't tell anyone!</p>
-
-<h3 align="center">Skills</h3>
+<h4 align="left">Skills:</h4>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -40,11 +31,11 @@
 </p>
 
 
-<h3 align="center">Socials</h3>
+<h4 align="left">Socials:</h4>
 
 <p align="center"> <a href="https://www.github.com/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_djez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gessicahug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<h3 align="center"> GitHub Status </h3>
+<h4 align="left"> GitHub Status: </h4>
 
 <h3 align="center"> 
 
