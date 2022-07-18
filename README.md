@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋 my name is Géssica.</h2>
-<p>🌍 I’m based in São Paulo, Brazil.</p>
-<p>📖 Just graduated from Le Wagon batch #898</p>
-<p>✉️ You can contact me at gessicahugendobler@gmail.com</p>
+<p>🌍  I’m based in São Paulo, Brazil.</p>
+<p>📖  Just graduated from Le Wagon batch #898</p>
+<p>✉️  You can contact me at [gessicahugendobler@gmail.com](mailto:gessicahugendobler@gmail.com)</p>
 
 ###
 
