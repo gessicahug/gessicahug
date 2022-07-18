@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gessicahug/gessicahug/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/gessicahug/gessicahug/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="max-width: 100%;">
 
 ###
 
